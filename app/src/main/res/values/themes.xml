@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidLesson18" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Set your splash screen background color -->
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <!-- Set your splash screen icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/platzi</item>
+        <!-- Set the duration of the icon animation (optional) -->
+        <item name="postSplashScreenTheme">@style/Theme.AndroidLesson18</item>
+    </style>
+
+    <style name="Theme.AndroidLesson18" parent="Base.Theme.AndroidLesson18" />
+</resources>
