@@ -1,5 +1,5 @@
 
-## Platzi (MVVM architectural pattern and Coroutines  in Kotlin)
+##  Platzi (MVVM architectural pattern, Coroutines and Dependency injection with Hilt in Kotlin)
 
 
 
