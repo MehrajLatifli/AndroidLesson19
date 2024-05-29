@@ -5,7 +5,7 @@ import androidx.lifecycle.*
 import com.example.platzi.models.get.Category
 import com.example.platzi.models.get.ProductResponse
 import com.example.platzi.models.post.NewProduct
-import com.example.platzi.repositories.ProductRepositories
+import com.example.platzi.api.repositories.ProductRepositories
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

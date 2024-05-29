@@ -1,4 +1,4 @@
-package com.example.platzi.repositories
+package com.example.platzi.api.repositories
 
 import com.example.platzi.api.IApiManager
 import com.example.platzi.models.get.Category
